@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[High Priestess]]></title>
         <description><![CDATA[High Priestess]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/high-priestess/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jan 2016 19:19:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jan 2016 19:24:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/high-priestess/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c066ad09-8109-4af2-9ea1-a9e1e03d3e97.jpg">]]></description>
+            <link>https://thegrid.ai/high-priestess/fcb00816-f38f-4f6f-9d4f-eacc434bbd2b/index.html</link>
+            <guid isPermaLink="false">fcb00816-f38f-4f6f-9d4f-eacc434bbd2b</guid>
+            <pubDate>Fri, 15 Jan 2016 19:24:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test</p>]]></description>
-            <link>undefined8ab27a09-9172-49db-a034-5246aa7eed61/index.html</link>
+            <link>https://thegrid.ai/high-priestess/8ab27a09-9172-49db-a034-5246aa7eed61/index.html</link>
             <guid isPermaLink="false">8ab27a09-9172-49db-a034-5246aa7eed61</guid>
             <pubDate>Fri, 15 Jan 2016 19:18:37 GMT</pubDate>
         </item>
