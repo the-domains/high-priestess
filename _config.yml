@@ -1,7 +1,8 @@
 name: High Priestess
 favicon: null
-layout_spectrum: 0.19502369733527303
+layout_spectrum: 1
 typography_spectrum: 0.7655304840300232
+title: You know what I mean
 cta:
   domain: null
   bucket: null
